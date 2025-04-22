@@ -1,2 +1,2 @@
 # PRODIGY_CS_02
-Image_encryption
+Image Encryption Tool using Python (Pixel Inversion)
